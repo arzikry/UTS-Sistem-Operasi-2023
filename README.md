@@ -2,7 +2,7 @@ Nama : Andi Rachman Zikry
 
 NIM : 2009076013
 
-Ket : Ujian Tengah Semester_Sistem Operasi
+Ket : Ujian Tengah Semester_Sistem Operasi 2023
 
 Soal
 
